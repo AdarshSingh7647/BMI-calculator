@@ -1,0 +1,22 @@
+
+body{
+    width: fit-content;
+    background-color: rgb(128, 128, 128);
+    position :absolute;
+    top:40%;
+    left:50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+}
+form{
+    text-decoration-style: double;
+     padding:1em; 
+    background-color: rgb(231, 220, 226);
+    border:5px solid rgb(0, 0, 0);
+}
+#submit{
+    padding:1px 3px;
+    margin:2px;
+    text-decoration-style: double;
+    text-emphasis: bold;
+}
